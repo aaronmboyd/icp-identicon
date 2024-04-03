@@ -10,3 +10,9 @@ Minimally viable ICP project just to test out a minimally functional Azle projec
 npm install
 dfx deploy
 ```
+
+Then view the routes in your browser
+* `/identicon`
+* `/salty-identicon`
+
+![image](https://github.com/aaronmboyd/icp-identicon/assets/13218496/4e3949f5-ed18-4203-b521-3a46cae278da)
